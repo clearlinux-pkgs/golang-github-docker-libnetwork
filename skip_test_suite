@@ -1,0 +1,4 @@
+missing buildreq packages:
+No Package found for golang-github-coreos-etcd
+No Package found for golang-github-hashicorp-consul
+No Package found for golang-github-samuel-go-zookeeper
