@@ -4,7 +4,7 @@
 #
 Name     : golang-github-docker-libnetwork
 Version  : 6909b08a1d270af526228817cd1c37a96fba738b
-Release  : 2
+Release  : 3
 URL      : https://github.com/docker/libnetwork/archive/6909b08a1d270af526228817cd1c37a96fba738b.tar.gz
 Source0  : https://github.com/docker/libnetwork/archive/6909b08a1d270af526228817cd1c37a96fba738b.tar.gz
 Summary  : No detailed summary available
